@@ -19,6 +19,7 @@ _Image of shop. Fish have randomly genrated colors that are visible within the t
 An application that prints _The 12 Days of Christmas_ using recursion.
 
 <img width="655" alt="Screenshot 2025-05-13 at 2 55 19 PM" src="https://github.com/user-attachments/assets/d1cc30d8-3a4a-4d8f-b15a-dcd570cbf357" />
+
 _The code using a simple for loop to print the items of gifts[] in reverse order for each verse of the song._
 
 <img width="1421" alt="Screenshot 2025-05-13 at 2 55 37 PM" src="https://github.com/user-attachments/assets/f4fb6ee6-34b6-443b-beb2-1c3fddb61c23" />
@@ -28,9 +29,12 @@ _The result_
 A WPF that accesses the weather via an API call
 
 <img width="808" alt="Screenshot 2025-05-13 at 2 59 32 PM" src="https://github.com/user-attachments/assets/daf68f5f-9764-4288-985b-ea490c6eb74a" />
+
 _Using an API to create a program based on the weather._
 
+
 <img width="779" alt="Screenshot 2025-05-13 at 3 00 11 PM" src="https://github.com/user-attachments/assets/009967fb-a99c-4f46-8b8c-c93f99c0f14f" />
+
 _The result_
 
 ### Arcade Escape (Console App)
@@ -41,6 +45,7 @@ _Mini-map used to visit "machines" which each play different games._
 
 <img width="978" alt="Screenshot 2025-05-13 at 3 06 59 PM" src="https://github.com/user-attachments/assets/cdbe2c89-e0b6-4221-941b-f6bf5e8e7aa6" />
 _TicTacToe in Progress_
+
 
 <img width="332" alt="Screenshot 2025-05-13 at 3 09 20 PM" src="https://github.com/user-attachments/assets/82ee6a0a-d5ef-45ca-a703-a4c75e9d4674" />
 _Timer used to have the game end after 5 minutes._
