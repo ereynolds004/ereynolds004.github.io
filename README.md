@@ -7,7 +7,7 @@ A portfolio of my projects from my intro to programming C# course
 A game in which the user can buy fish and observe them in a tank. Demonsrates inheretence, constuctors, and the random class.
 
 <img width="965" alt="Screenshot 2025-05-13 at 2 39 12 PM" src="https://github.com/user-attachments/assets/1cc16dea-90fa-4a46-8503-503c3c39222e" />
-_Adopt-a-Fish main menu,_
+_Adopt-a-Fish main menu._
 
 <img width="962" alt="Screenshot 2025-05-13 at 2 39 25 PM" src="https://github.com/user-attachments/assets/a7eafe7a-70e6-4e2d-adb6-5f589401ac92" />
 _Fish tank with fish._
@@ -52,15 +52,15 @@ A puzzle game comprised of 4 mini-games, an item shop, and even a cutscene!
 _An image of the intro cutscene._
 
 <img width="783" alt="Screenshot 2025-05-13 at 3 12 04 PM" src="https://github.com/user-attachments/assets/52f25974-d71b-44ce-93d3-ac7b67458f70" />
-_Image of prize shop and an example using image files in a WPF_
+_Image of prize shop and an example using image files in a WPF._
 
 <img width="783" alt="Screenshot 2025-05-13 at 3 13 48 PM" src="https://github.com/user-attachments/assets/a87013dc-370f-4793-8f11-2aa858df752c" />
 <img width="780" alt="Screenshot 2025-05-13 at 3 13 14 PM" src="https://github.com/user-attachments/assets/85878016-9122-4247-8a27-364120c2142a" />
-_Image one: memory game without purchasing a camera item_
-_Image two: memory game WITH the camera item_
+_Image one: memory game without purchasing a camera item._
+_Image two: memory game WITH the camera item._
 
 The player inventory is a very simple array that holds a number value (1 or 0) whether a player has an item or not making it easy to create conditional loops that react based on whether an item has been aquired or not.
 
 <img width="278" alt="Screenshot 2025-05-13 at 3 14 14 PM" src="https://github.com/user-attachments/assets/f81a415d-8b29-4f84-8e59-292118728d46" />
-_Full code for inventory_
+_Full code for inventory._
 
