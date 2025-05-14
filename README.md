@@ -6,14 +6,11 @@ A portfolio of my projects from my intro to programming C# course
 ### Adopt-a-fish
 A game in which the user can buy fish and observe them in a tank. Demonsrates inheretence, constuctors, and the random class.
 
-<img width="965" alt="Screenshot 2025-05-13 at 2 39 12 PM" src="https://github.com/user-attachments/assets/1cc16dea-90fa-4a46-8503-503c3c39222e" />
-_Adopt-a-Fish main menu._
+<img width="965" alt="Screenshot 2025-05-13 at 2 39 12 PM" src="https://github.com/user-attachments/assets/1cc16dea-90fa-4a46-8503-503c3c39222e" />\_Adopt-a-Fish main menu._
 
-<img width="962" alt="Screenshot 2025-05-13 at 2 39 25 PM" src="https://github.com/user-attachments/assets/a7eafe7a-70e6-4e2d-adb6-5f589401ac92" />
-_Fish tank with fish._
+<img width="962" alt="Screenshot 2025-05-13 at 2 39 25 PM" src="https://github.com/user-attachments/assets/a7eafe7a-70e6-4e2d-adb6-5f589401ac92" />\_Fish tank with fish._
 
-<img width="964" alt="Screenshot 2025-05-13 at 2 41 19 PM" src="https://github.com/user-attachments/assets/5a61415d-e641-4877-b4e5-e4a31d915c2a" />
-_Image of shop. Fish have randomly genrated colors that are visible within the tanks._
+<img width="964" alt="Screenshot 2025-05-13 at 2 41 19 PM" src="https://github.com/user-attachments/assets/5a61415d-e641-4877-b4e5-e4a31d915c2a" />\_Image of shop. Fish have randomly genrated colors that are visible within the tanks._
 
 ### "12 Days of Christmas"
 An application that prints _The 12 Days of Christmas_ using recursion.
