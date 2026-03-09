@@ -1,6 +1,7 @@
 # ereynolds004.github.io
 A portfolio of my projects from my intro to programming C# course
 
+# PROG 101
 ## Projects
 
 ### Adopt-a-fish
@@ -66,3 +67,14 @@ The player inventory is a very simple array that holds a number value (1 or 0) w
 <img width="278" alt="Screenshot 2025-05-13 at 3 14 14 PM" src="https://github.com/user-attachments/assets/f81a415d-8b29-4f84-8e59-292118728d46" />\
 _Full code for inventory._
 
+# PROG 102
+## Projects
+
+### Composition Creator 
+A program that generates unique images by overlaying different shapes of varying color and transparancy. Made with Processing
+
+### Duck Guessing Game
+A counting / guessing game where audio indicates the number of ducks hiding in a pond. Identify how many unique sounds there are deduce the total number of ducks
+
+### Weather Visualization
+An app that takes coordinates and uses an API to determine those coordinates' tempertures over a period of time
