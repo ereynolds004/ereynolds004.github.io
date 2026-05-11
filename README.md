@@ -72,6 +72,7 @@ _Full code for inventory._
 
 ### Composition Creator 
 A program that generates unique images by overlaying different shapes of varying color and transparancy. Made with Processing.
+
 <img width="40%" height="auto" alt="CompCreator2-2-2026_17 15 43" src="https://github.com/user-attachments/assets/099f1b30-8bbc-414b-9e96-3e95a042318f" />\
 _An output from the composition creator._
 
@@ -86,6 +87,7 @@ _Code for the function that plays the duck sounds._
 
 ### Weather Visualization
 An app that takes user input coordinates and uses an API to determine those coordinates' tempertures over a period of time.
+
 <img width="60%" height="auto" alt="WeatherVisualChicago" src="https://github.com/user-attachments/assets/7e5f7d0f-119a-4ef9-915d-a922a2deea8a" />\
 _Weather Visualization at Chicago's Coordinates._
 
