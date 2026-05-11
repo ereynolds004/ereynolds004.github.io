@@ -1,5 +1,5 @@
 # ereynolds004.github.io
-A portfolio of my projects from my intro to programming C# course
+A portfolio of my projects from my programming courses at Columbia College Chicago
 
 # PROG 101
 ## Projects
