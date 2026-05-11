@@ -77,7 +77,11 @@ _An output from the composition creator._
 
 ### Duck Guessing Game
 A counting / guessing game where audio indicates the number of ducks hiding in a pond. Identify how many unique sounds there are deduce the total number of ducks.
+<img width="1440" height="900" alt="DuckGameScreenshot" src="https://github.com/user-attachments/assets/469de238-9df3-4bc9-8df3-2d87dc1573c6" />
+_Image of the game over screen._
 
+<img width="775" height="272" alt="DuckGameSoundFunction" src="https://github.com/user-attachments/assets/7e01ebde-21f3-4ac2-a30c-405d142c827d" />
+_Code for the function that plays the duck sounds._
 
 ### Weather Visualization
 An app that takes user input coordinates and uses an API to determine those coordinates' tempertures over a period of time.
@@ -91,10 +95,10 @@ _Weather Visualization at Atlanta's Coordinates._
 A interactive website discussing issues around AI replacing Entry level Jobs
 
 <video width="60%" height="auto" controls muted autoplay>
-    <source src="SnakesFoHireGamePlayVideo.mp4" type="video/mp4">
-</video>\
-_A player (right) racing against a computer (left) in snake._
+    <source src="SnakesForHireGamePlayVideo.mp4" type="video/mp4">
+</video>
 
-_Try_<a href="https://github.com/user-attachments/assets/0a512237-bcab-489a-a24a-e4cc9e24afcd"> _this_</a> _if the video is not appearing._
+Try <a href="https://github.com/user-attachments/assets/0a512237-bcab-489a-a24a-e4cc9e24afcd"> this</a> if the video is not appearing.
+
 _A player (right) racing against a computer (left) in snake._
 
