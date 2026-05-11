@@ -77,10 +77,11 @@ _An output from the composition creator._
 
 ### Duck Guessing Game
 A counting / guessing game where audio indicates the number of ducks hiding in a pond. Identify how many unique sounds there are deduce the total number of ducks.
-<img width="1440" height="900" alt="DuckGameScreenshot" src="https://github.com/user-attachments/assets/469de238-9df3-4bc9-8df3-2d87dc1573c6" />
+
+<img width="60%" height="auto" alt="DuckGameScreenshot" src="https://github.com/user-attachments/assets/469de238-9df3-4bc9-8df3-2d87dc1573c6" />\
 _Image of the game over screen._
 
-<img width="775" height="272" alt="DuckGameSoundFunction" src="https://github.com/user-attachments/assets/7e01ebde-21f3-4ac2-a30c-405d142c827d" />
+<img width="60%" height="auto" alt="DuckGameSoundFunction" src="https://github.com/user-attachments/assets/7e01ebde-21f3-4ac2-a30c-405d142c827d" />\
 _Code for the function that plays the duck sounds._
 
 ### Weather Visualization
@@ -88,7 +89,7 @@ An app that takes user input coordinates and uses an API to determine those coor
 <img width="60%" height="auto" alt="WeatherVisualChicago" src="https://github.com/user-attachments/assets/7e5f7d0f-119a-4ef9-915d-a922a2deea8a" />\
 _Weather Visualization at Chicago's Coordinates._
 
-<img width="60%" height="auto" alt="WeatherVisualAtlanta" src="https://github.com/user-attachments/assets/012dae9d-097c-4d7b-9a7f-c48416c99be4" />
+<img width="60%" height="auto" alt="WeatherVisualAtlanta" src="https://github.com/user-attachments/assets/012dae9d-097c-4d7b-9a7f-c48416c99be4" />\
 _Weather Visualization at Atlanta's Coordinates._
 
 ### Snakes for Hire! Website
